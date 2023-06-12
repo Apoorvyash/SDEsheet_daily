@@ -1,2 +1,3 @@
-# SDEsheet_daily
-This repository contains my solutions to various GeeksforGeeks DSA problems. The solutions are organized by the level of difficulty - Created using [GfG To GitHub](https://github.com/AtharvaNanavate/GfG-To-GitHub)
+# Strivers SDE Sheet – Challenge
+This repository contains my solutions to striverSDE Sheet challenge. The solutions are organized by the level of difficulty. </br>
+Sheet link - https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
